@@ -1,0 +1,5 @@
+{
+  "name":  "import",
+  "entryPoint":  "/import.js",
+  "commandExpiration":  "300s"
+}

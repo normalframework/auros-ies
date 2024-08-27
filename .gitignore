@@ -1,0 +1,6 @@
+/dist
+*.js.map
+node_modules
+.npm
+combined.log
+error.log
