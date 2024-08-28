@@ -12,7 +12,7 @@
   "dependencies": {
     "@normalframework/applications-sdk": "~0.1.75",
     "typescript": "^5.0.2",
-    "xlsx": "*"
+    "node-xlsx": "*"
   },
   "author": "",
   "license": "ISC"
